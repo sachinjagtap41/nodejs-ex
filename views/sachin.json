@@ -7,7 +7,7 @@
     "logo": "https://cloudinovasi.id/assets/img/logos/registry.png",
     "image": "registry:latest",
     "ports": [
-      "5000/tcp"
+      "5000/tcpd"
     ],
     "volumes": ["/var/lib/registry"]
   },
